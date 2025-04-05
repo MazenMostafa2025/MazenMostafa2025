@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning **Microservices Architecture**
 - 💬 Ask me about **Node.js, Express.js, NestJS, MongoDB, PostgreSQL**
 - 📫 How to reach me **mazenmostafa2025@hotmail.com**
-- 📄 Go through my CV: **https://drive.google.com/file/d/1ckhiGCRsqg3NEWNYqQ7YLoEcAe15Zxuo/view?usp=sharing](https://drive.google.com/file/d/1iUUmCBx_wbU9SU5sLcjdfZEktHa22oXv/view?usp=sharing**
+- 📄 Go through my CV: **https://drive.google.com/file/d/1ckhiGCRsqg3NEWNYqQ7YLoEcAe15Zxuo/view**
 
 ---
 
