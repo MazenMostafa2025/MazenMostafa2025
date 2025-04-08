@@ -2,7 +2,7 @@
 <h3 align="center">An Egyptian Software Engineer interested in Backend Development</h3>
 
 - 🌱 I’m currently learning **Microservices Architecture**
-- 💬 Ask me about **Node.js, Express.js, NestJS, MongoDB, PostgreSQL**
+- 💬 Ask me about **Node.js, Express.js, NestJS, MongoDB, PostgreSQL, GraphQL**
 - 📫 How to reach me **mazenmostafa2025@hotmail.com**
 - 📄 Go through my CV: **https://drive.google.com/file/d/1iUUmCBx_wbU9SU5sLcjdfZEktHa22oXv/view**
 
@@ -10,7 +10,6 @@
 
 ### 🤝 **Connect with me:**
 <p align="left">
-<a href="https://github.com/MazenMostafa2025" target="blank"><img align="center" src="https://img.icons8.com/fluency/48/github.png" alt="GitHub" /></a>
 <a href="https://www.linkedin.com/in/mazen-mostafa-a5393720b/" target="blank"><img align="center" src="https://img.icons8.com/fluency/48/linkedin.png" alt="LinkedIn" /></a>
 </p>
 
