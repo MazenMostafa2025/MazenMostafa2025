@@ -1,8 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mazen Mostafa</h1>
 <h3 align="center">An Egyptian Software Engineer interested in Backend Development</h3>
 
-- 🌱 I’m currently learning **Microservices Architecture**
-- 💬 Ask me about **Node.js, Express.js, NestJS, MongoDB, PostgreSQL, GraphQL**
+- 💬 Ask me about **Java, Spring Boot, Node.js, Express.js, NestJS, MongoDB, PostgreSQL, GraphQL, RabbitMQ**
 - 📫 How to reach me **mazenmostafa2025@hotmail.com**
 
 ---
